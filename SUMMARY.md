@@ -5,7 +5,7 @@
 ## Course Logistics
 
 * [Time & Location](course-logistics/quickstart.md)
-* [Course Format & Teaching Team](course-logistics/publish-your-docs.md)
+* [Course Format & Communication](course-logistics/publish-your-docs.md)
 * [Grading](course-logistics/grading.md)
 * [Syllabus](course-logistics/syllabus/README.md)
   * [W1: Course Overview](course-logistics/syllabus/w1-course-overview.md)

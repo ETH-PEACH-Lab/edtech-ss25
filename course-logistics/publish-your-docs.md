@@ -2,7 +2,7 @@
 icon: person-chalkboard
 ---
 
-# Course Format & Teaching Team
+# Course Format & Communication
 
 ### Format
 
@@ -14,10 +14,10 @@ This is a project-based course with weekly sessions that include:
 
 
 
-### Teaching Team
+### Communication
 
-* Prof April Wang (april.wang@inf.ethz.ch)
+* Prof April Wang: april.wang@inf.ethz.ch
 * TAs
-  * Zeyu Xiong
-  * Xiaotian Su
+  * Zeyu Xiong: zeyu.xiong@inf.ethz.ch
+  * Xiaotian Su: xiaotian.su@inf.ethz.ch
 

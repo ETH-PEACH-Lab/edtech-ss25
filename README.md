@@ -1,6 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb25hbCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzM0MzcwMTA3fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -27,8 +28,3 @@ Educational technology is reshaping how knowledge is shared, making it more acce
 Through weekly lectures, we’ll learn foundational learning theories that tell us how people learn and inform the design of effective educational tools, explore different topics of educational technologies like intelligent tutoring systems, collaborative learning systems, and learning at scale, as well as emerging approaches like AR/VR, NLP and the critical  ethical and social considerations.&#x20;
 
 Beyond the theory, students will work in teams for a semester long hackathon to address real-world challenges using user-centered design methods, creating their own interactive learning tools and proposing evaluation plans. \
-
-
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="course-logistics/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="course-logistics/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
