@@ -4,9 +4,5 @@ icon: globe-pointer
 
 # Course Format
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
-
-You can publish your site and find related settings from your docs site's homepage.
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+This is a project-based course with weekly sessions that include a one-hour lecture on core topics, followed by a one-hour exercise session where students present their project progress and receive feedback from the instructional team. In addition to the class meetings, students are expected to dedicate at least two additional hours per week to working with their teammates on their projects.
 

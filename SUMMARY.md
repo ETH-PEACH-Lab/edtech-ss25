@@ -9,6 +9,7 @@
 * [Grading](course-logistics/grading.md)
 * [Syllabus](course-logistics/syllabus.md)
 * [Project Themes](course-logistics/project-themes.md)
+* [Project Milestones & Due Dates](course-logistics/project-milestones-and-due-dates.md)
 
 ## Basics
 
