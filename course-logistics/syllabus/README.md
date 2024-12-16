@@ -1,0 +1,7 @@
+---
+icon: ballot
+---
+
+# Syllabus
+
+<table><thead><tr><th width="117">Week</th><th width="114">Day</th><th width="278">Lecture Session</th><th>Exercise Session</th></tr></thead><tbody><tr><td>W1</td><td>Feb 21</td><td>Course Overview</td><td>Overview of the semester-long project</td></tr><tr><td>W2</td><td>Feb 28</td><td>Cognitivism: Human Cognition and Learning</td><td>Human-Centered Design Method</td></tr><tr><td>W3</td><td>March 7</td><td>Behaviorism and Constructivism</td><td>Prototyping Techniques</td></tr><tr><td></td><td>March 14</td><td>Group discussion + team formation</td><td>Group discussion + team formation</td></tr><tr><td>W4</td><td>March 21</td><td>Modality of Information</td><td>Project ideation</td></tr><tr><td>W5</td><td>March 28</td><td>Collaborative Learning</td><td>Project proposal feedback</td></tr><tr><td>W6</td><td>April 4</td><td>Motivation and Engagement</td><td>Paper prototype</td></tr><tr><td></td><td>April 11</td><td>Paper prototype presentation + peer feedback</td><td></td></tr><tr><td></td><td>April 18, April 25, May 2</td><td>No course</td><td></td></tr><tr><td>W7</td><td>May 9</td><td>Personalization and Adaptive Learning</td><td>Prototyping office hour</td></tr><tr><td>W8</td><td>May 16</td><td>Assessment and Feedback</td><td>Prototyping office hour</td></tr><tr><td></td><td>May 23</td><td>Project demo presentation</td><td></td></tr><tr><td><br></td><td>May 30</td><td>No course</td><td></td></tr></tbody></table>

@@ -1,6 +1,10 @@
+---
+icon: hundred-points
+---
+
 # Grading
 
-The grading consists of individual components (30%) and group project components (70%). The individual components consist of pop quizzes during lectures (10%), one short essay (10%), and an evaluation plan (10%). The group project consists of several milestones:
+The grading consists of individual components and group project components:
 
 * Individual components
   * In-class quizzes (10%)

@@ -1,3 +1,7 @@
+---
+icon: timeline-arrow
+---
+
 # Project Milestones & Due Dates
 
 * March 12 First essay due

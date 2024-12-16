@@ -18,11 +18,16 @@ layout:
     visible: true
 ---
 
-# Welcome
+# About
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to the Design in Educational Technology SS 2025 course website!
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Educational technology is reshaping how knowledge is shared, making it more accessible and meaningful for learners across diverse contexts. Designing effective educational tools requires an understanding of both how learning happens and how technology can best support it.&#x20;
+
+Through weekly lectures, we’ll learn foundational learning theories that tell us how people learn and inform the design of effective educational tools, explore different topics of educational technologies like intelligent tutoring systems, collaborative learning systems, and learning at scale, as well as emerging approaches like AR/VR, NLP and the critical  ethical and social considerations.&#x20;
+
+Beyond the theory, students will work in teams for a semester long hackathon to address real-world challenges using user-centered design methods, creating their own interactive learning tools and proposing evaluation plans. \
+
 
 ### Jump right in
 

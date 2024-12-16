@@ -1,3 +1,7 @@
+---
+icon: light-emergency-on
+---
+
 # Project Themes
 
 * T1: Embodied Learning: Make Learning a Physical Experience
