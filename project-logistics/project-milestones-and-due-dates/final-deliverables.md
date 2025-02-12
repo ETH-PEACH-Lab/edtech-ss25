@@ -1,7 +1,8 @@
 ---
 icon: '4'
+hidden: true
 ---
 
-# Final Design
+# Final Deliverables
 
 TBD
