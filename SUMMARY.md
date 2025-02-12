@@ -27,5 +27,5 @@
   * [Individual Essay](project-logistics/project-milestones-and-due-dates/individual-essay.md)
   * [Project proposal](project-logistics/project-milestones-and-due-dates/project-proposal.md)
   * [Paper Prototypes](project-logistics/project-milestones-and-due-dates/paper-prototypes.md)
-  * [Final Design](project-logistics/project-milestones-and-due-dates/final-design.md)
+  * [Final Deliverables](project-logistics/project-milestones-and-due-dates/final-deliverables.md)
   * [Individual Evaluation Plan](project-logistics/project-milestones-and-due-dates/individual-evaluation-plan.md)
