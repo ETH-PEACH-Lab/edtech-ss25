@@ -2,5 +2,5 @@
 icon: presentation-screen
 ---
 
-# W1: Course Overview
+# W6: Collaborative Learning
 

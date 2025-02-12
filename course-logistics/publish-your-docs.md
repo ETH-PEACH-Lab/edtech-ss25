@@ -16,8 +16,8 @@ This is a project-based course with weekly sessions that include:
 
 ### Communication
 
-* Prof April Wang: april.wang@inf.ethz.ch
+* Prof April Wang: april \[dot] wang \[at] inf \[dot] ethz \[dot] ch
 * TAs
-  * Zeyu Xiong: zeyu.xiong@inf.ethz.ch
-  * Xiaotian Su: xiaotian.su@inf.ethz.ch
+  * Zeyu Xiong: zeyu \[dot] xiong \[at] inf \[dot] ethz \[dot] ch
+  * Xiaotian Su: xiaotian \[dot] su \[at] inf \[dot] ethz \[dot] ch
 
