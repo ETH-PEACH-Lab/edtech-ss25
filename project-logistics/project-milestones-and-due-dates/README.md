@@ -30,6 +30,12 @@ April 14
 {% endstep %}
 
 {% step %}
+### Demo day
+
+May 23
+{% endstep %}
+
+{% step %}
 ### Final deliverables and individual evaluation plan&#x20;
 
 May 30
